@@ -3,11 +3,11 @@
 <h2>Design by</h2>
 https://www.behance.net/gallery/146176531/App-Star-Coffe?tracking_source=search_projects%7Cmobile%20design%20coffe%20app
 
-<h2>Video</h2>
-
 <h2>Prints</h2>
 <div>
-	
+	<img src = "https://user-images.githubusercontent.com/54670983/181811367-336a5387-8f5b-4a2f-b3a6-7a40438a2e32.jpg" width="200" height="400">
+	<img src = "https://user-images.githubusercontent.com/54670983/181811350-2f326e67-b40c-4a1f-ab9d-5d11c1f59776.jpg" width="200" height="400">
+	<img src = "https://user-images.githubusercontent.com/54670983/181811373-80087429-159c-4605-aaf2-dcb2673c6709.jpg" width="200" height="400">
 </div>
 
 
